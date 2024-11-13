@@ -15,4 +15,4 @@
 
 ### Topologi GNS
 <a name="topologi-gns"></a>
-<img src="topologi-gns.png">
+<img src="img/topologi-gns.png">
