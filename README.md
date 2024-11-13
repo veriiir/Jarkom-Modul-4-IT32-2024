@@ -12,3 +12,7 @@
 # Daftar Isi
 - [Topologi GNS](#topologi-gns)
 - [Topologi CPT](#topologi-cpt)
+
+### Topologi GNS
+<a name="topologi-gns"></a>
+<img src="img/topologi-gns.png">
