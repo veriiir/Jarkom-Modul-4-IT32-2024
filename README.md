@@ -62,7 +62,7 @@ Pengabungan K
 
 ### Config dan Routing
 <a name="config-cidr"></a>
-<img src="img/.png">
+<img src="img/rute.png">
 
 ### Topologi CPT
 <a name="topologi-cpt"></a>
