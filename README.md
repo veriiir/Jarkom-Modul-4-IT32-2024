@@ -58,29 +58,26 @@ Pengabungan K
 
 ### CIDR Tree
 <a name="cidr-tree"></a>
-<img src="img/.png">
+<img src="img/CIDR-Tree.png">
 
 ### Config dan Routing
 <a name="config-cidr"></a>
 <img src="img/.png">
 
+### Topologi CPT
+<a name="topologi-cpt"></a>
+![Screenshot 2024-11-17 2024558](https://github.com/user-attachments/assets/3f104672-857e-4293-8729-6273ae2630ee)
+
 ### Perhitungan VLSM
 <a name="perhitungan-vlsm"></a>
-<img src="img/.png">
 ![Screenshot 2024-11-17 205316](https://github.com/user-attachments/assets/d83c8b57-fd22-4f5e-9e0d-d3cbafd29970)
-
-
-### Topologi CPT
-![Screenshot 2024-11-17 2024558](https://github.com/user-attachments/assets/3f104672-857e-4293-8729-6273ae2630ee)
 
 ### VLSM Tree
 <a name="vlsm-tree"></a>
-<img src="img/.png">
 ![image](https://github.com/user-attachments/assets/a2fda60b-9c9c-48dc-b064-56cd802a0742)
 
 ### Config dan Routing
 <a name="config-vlsm"></a>
-<img src="img/.png">
 ![Screenshot 2024-11-17 205812](https://github.com/user-attachments/assets/409f1234-410b-448c-bbe1-4bfd2ff3c4bc)
 
 
