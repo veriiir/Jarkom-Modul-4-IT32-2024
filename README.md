@@ -58,7 +58,7 @@ Pengabungan K
 
 ### CIDR Tree
 <a name="cidr-tree"></a>
-<img src="img/CIDR-Tree.png">
+<img src="img/CIDR Tree.png">
 
 ### Config dan Routing
 <a name="config-cidr"></a>
